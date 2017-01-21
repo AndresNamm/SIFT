@@ -1,0 +1,11 @@
+
+    private int returnoctave =nrOctaves;
+    private int returninterval=nrIntervals;
+    private double sigma = 0.5;
+    private int treshold = 5;
+    private int BeginningBias = 0;// USED IN  minMax, detectCorners
+    private boolean MyMethod = false;
+    private boolean GenerateComparator =true;
+    private double defaultComparator = 0.03*255;
+    private String  imageName;
+    private boolean shouldIprint = false;
